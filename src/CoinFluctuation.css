@@ -1,0 +1,9 @@
+.indicator-position {
+    align-self: center;
+}
+.price-up {
+    color: forestgreen;
+}
+.price-down {
+    color: red;
+}

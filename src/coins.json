@@ -1,0 +1,411 @@
+[
+	{
+		"Coin": "BTC",
+		"Name": "Bitcoin",
+		"Price": 64139.83,
+		"Percentage24H": "0.47%",
+		"Percentage7D": "5.43%",
+		"MarketCap": 1210461656117,
+		"Volume24H": 29894898633,
+		"CirculatingSupply": 18872231,
+		"MaxSupply": 21000000,
+		"Last7Days": [
+			{
+				"name": "pointA",
+				"value": 64125.80
+			},
+			{
+				"name": "pointB",
+				"value": 64398.60
+			},
+			{
+				"name": "pointC",
+				"value": 64134.50
+			},
+			{
+				"name": "pointD",
+				"value": 64806.70
+			},
+			{
+				"name": "pointE",
+				"value": 64932.60
+			},
+			{
+				"name": "pointF",
+				"value": 66904.40
+			},
+			{
+				"name": "pointG",
+				"value": 67527.90
+			}
+		]
+	},
+	{
+		"Coin": "ETH",
+		"Name": "Ethereum",
+		"Price": 4646.35,
+		"Percentage24H": "-0.21%",
+		"Percentage7D": "4.46%",
+		"MarketCap": 549793627996,
+		"Volume24H": 14523394832,
+		"CirculatingSupply": 118328047,
+		"MaxSupply": false,
+		"Last7Days": [
+			{
+				"name": "pointA",
+				"value": 4685.56
+			},
+			{
+				"name": "pointB",
+				"value": 4625.59
+			},
+			{
+				"name": "pointC",
+				"value": 4644.61
+			},
+			{
+				"name": "pointD",
+				"value": 4667.31
+			},
+			{
+				"name": "pointE",
+				"value": 4720.87
+			},
+			{
+				"name": "pointF",
+				"value": 4634.03
+			},
+			{
+				"name": "pointG",
+				"value": 4731.83
+			}
+		]
+	},
+	{
+		"Coin": "BNB",
+		"Name": "Binance Coin",
+		"Price": 647.73,
+		"Percentage24H": "4.09%",
+		"Percentage7D": "-4.55%",
+		"MarketCap": 108041796220,
+		"Volume24H": 2077207621,
+		"CirculatingSupply": 166801148,
+		"MaxSupply": false,
+		"Last7Days": [
+			{
+				"name": "pointA",
+				"value": 650.92
+			},
+			{
+				"name": "pointB",
+				"value": 650.10
+			},
+			{
+				"name": "pointC",
+				"value": 626.64
+			},
+			{
+				"name": "pointD",
+				"value": 629.89
+			},
+			{
+				"name": "pointE",
+				"value": 615.28
+			},
+			{
+				"name": "pointF",
+				"value": 635.19
+			},
+			{
+				"name": "pointG",
+				"value": 655.32
+			}
+		]
+	},
+	{
+		"Coin": "USDT",
+		"Name": "Tether",
+		"Price": 0.9999,
+		"Percentage24H": "-0.02%",
+		"Percentage7D": "-0.11%",
+		"MarketCap": 73855848803,
+		"Volume24H": 65597573314,
+		"CirculatingSupply": 73859886039,
+		"MaxSupply": false,
+		"Last7Days": [
+			{
+				"name": "pointA",
+				"value": 0.9981
+			},
+			{
+				"name": "pointB",
+				"value": 0.998
+			},
+			{
+				"name": "pointC",
+				"value": 0.9981
+			},
+			{
+				"name": "pointD",
+				"value": 0.998
+			},
+			{
+				"name": "pointE",
+				"value": 0.998
+			},
+			{
+				"name": "pointF",
+				"value": 0.993
+			},
+			{
+				"name": "pointG",
+				"value": 1.00
+			}
+		]
+	},
+	{
+		"Coin": "SOL",
+		"Name": "Solana",
+		"Price": 236.09,
+		"Percentage24H": "3.03%",
+		"Percentage7D": "-6.29%",
+		"MarketCap": 71556795233,
+		"Volume24H": 2184694308,
+		"CirculatingSupply": 303085983,
+		"MaxSupply": false,
+		"Last7Days": [
+			{
+				"name": "pointA",
+				"value": 230.69
+			},
+			{
+				"name": "pointB",
+				"value": 225.08
+			},
+			{
+				"name": "pointC",
+				"value": 221.25
+			},
+			{
+				"name": "pointD",
+				"value": 229.75
+			},
+			{
+				"name": "pointE",
+				"value": 218.39
+			},
+			{
+				"name": "pointF",
+				"value": 237.90
+			},
+			{
+				"name": "pointG",
+				"value": 245.34
+			}
+		]
+	},
+	{
+		"Coin": "ADA",
+		"Name": "Cardano",
+		"Price": 2.05,
+		"Percentage24H": "-0.42%",
+		"Percentage7D": "3.90%",
+		"MarketCap": 68225986232,
+		"Volume24H": 2077146657,
+		"CirculatingSupply": 33298801078,
+		"MaxSupply": 45000000000,
+		"Last7Days": [
+			{
+				"name": "pointA",
+				"value": 2.01
+			},
+			{
+				"name": "pointB",
+				"value": 2.02
+			},
+			{
+				"name": "pointC",
+				"value": 1.99
+			},
+			{
+				"name": "pointD",
+				"value": 2.06
+			},
+			{
+				"name": "pointE",
+				"value": 1.94
+			},
+			{
+				"name": "pointF",
+				"value": 2.11
+			},
+			{
+				"name": "pointG",
+				"value": 2.44
+			}
+		]
+	},
+	{
+		"Coin": "XRP",
+		"Name": "XRP",
+		"Price": 1.19,
+		"Percentage24H": "-0.37%",
+		"Percentage7D": "4.75%",
+		"MarketCap": 56059002495,
+		"Volume24H": 2890762268,
+		"CirculatingSupply": 47158974920,
+		"MaxSupply": 100000000000,
+		"Last7Days": [
+			{
+				"name": "pointA",
+				"value": 1.19
+			},
+			{
+				"name": "pointB",
+				"value": 1.19
+			},
+			{
+				"name": "pointC",
+				"value": 1.19
+			},
+			{
+				"name": "pointD",
+				"value": 1.22
+			},
+			{
+				"name": "pointE",
+				"value": 1.19
+			},
+			{
+				"name": "pointF",
+				"value": 1.26
+			},
+			{
+				"name": "pointG",
+				"value": 1.28
+			}
+		]
+	},
+	{
+		"Coin": "DOT",
+		"Name": "Polkadot",
+		"Price": 46.89,
+		"Percentage24H": "-2.41%",
+		"Percentage7D": "-7.37%",
+		"MarketCap": 46309745265,
+		"Volume24H": 1273301680,
+		"CirculatingSupply": 987579315,
+		"Last7Days": [
+			{
+				"name": "pointA",
+				"value": 46.40
+			},
+			{
+				"name": "pointB",
+				"value": 47.13
+			},
+			{
+				"name": "pointC",
+				"value": 45.88
+			},
+			{
+				"name": "pointD",
+				"value": 47.65
+			},
+			{
+				"name": "pointE",
+				"value": 46.87
+			},
+			{
+				"name": "pointF",
+				"value": 50.78
+			},
+			{
+				"name": "pointG",
+				"value": 49.55
+			}
+		]
+	},
+	{
+		"Coin": "USDC",
+		"Name": "USD Coin",
+		"Price": 0.9989,
+		"Percentage24H": "0.16%",
+		"Percentage7D": "-0.12%",
+		"MarketCap": 34386866605,
+		"Volume24H": 2847499611,
+		"CirculatingSupply": 34424351584,
+		"MaxSupply": false,
+		"Last7Days": [
+			{
+				"name": "pointA",
+				"value": 0.9996
+			},
+			{
+				"name": "pointB",
+				"value": 1.00
+			},
+			{
+				"name": "pointC",
+				"value": 0.9993
+			},
+			{
+				"name": "pointD",
+				"value": 0.9999
+			},
+			{
+				"name": "pointE",
+				"value": 0.9995
+			},
+			{
+				"name": "pointF",
+				"value": 1.00
+			},
+			{
+				"name": "pointG",
+				"value": 1.22
+			}
+		]
+	},
+	{
+		"Coin": "DOGE",
+		"Name": "Dogecoin",
+		"Price": 0.2594,
+		"Percentage24H": "1.31%",
+		"Percentage7D": "-0.54%",
+		"MarketCap": 34263451676,
+		"Volume24H": 944681126,
+		"CirculatingSupply": 132099945393,
+		"MaxSupply": false,
+		"Last7Days": [
+			{
+				"name": "pointA",
+				"value": 0.2629
+			},
+			{
+				"name": "pointB",
+				"value": 0.2617
+			},
+			{
+				"name": "pointC",
+				"value": 0.2594
+			},
+			{
+				"name": "pointD",
+				"value": 0.2612
+			},
+			{
+				"name": "pointE",
+				"value": 0.2557
+			},
+			{
+				"name": "pointF",
+				"value": 0.2735
+			},
+			{
+				"name": "pointG",
+				"value": 0.323
+			}
+		]
+	}
+]
