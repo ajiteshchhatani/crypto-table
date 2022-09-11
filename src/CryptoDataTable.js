@@ -15,7 +15,7 @@ const columns = [
         headerName: '',
         width: 50,
         renderCell: Star,
-        disableColumnMenu: true
+        sortable: false
     },
     { field: 'id', headerName: '#', width: 50 },
     {
@@ -88,9 +88,10 @@ const columns = [
                 <CoinChart props={params} />
             )
         },
-        width: 200
+        width: 200,
+        sortable: false
      },
-    { field: 'menu', headerName: '', width: 50, renderCell: ActionsMenu },
+    { field: 'menu', headerName: '', width: 50, renderCell: ActionsMenu, sortable: false },
 ]
 
 const modifyCoinsDataForRows = data.map((coin, index) => ({
